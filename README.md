@@ -8,8 +8,7 @@ See https://plausible.io/blog/google-floc.
 
 Add this line to your application's Gemfile:
 
-    # TODO: fix auto-require
-    gem 'rack-floc-off', require: 'rack_floc_off'
+    gem 'rack-floc-off'
 
 And then execute:
 
